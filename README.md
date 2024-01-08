@@ -2,7 +2,9 @@
 
 Este es un ejemplo de una página de portafolio personal. La página está diseñada para mostrar información personal, habilidades y proyectos recientes.
 
-### Github Pages  : https://micolash89.github.io/porfolio-example/
+## Deploy del Porfolio
+
+***Github Pages***  : https://micolash89.github.io/porfolio-example/
 
 ## Estructura del Proyecto
 
