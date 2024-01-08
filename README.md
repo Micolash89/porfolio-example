@@ -1,10 +1,12 @@
 # Portfolio Page - Javier Espindola
 
-Este es un ejemplo de una página de portafolio personal. La página está diseñada para mostrar información personal, habilidades y proyectos recientes.
+<img src="/img/porfolioimg.PNG">
+
+Este es un ejemplo de una página de portafolio personal desarrollada por Javier Espindola. La página está diseñada para mostrar información personal, habilidades y proyectos recientes, y es completamente **responsive** para adaptarse a diferentes tamaños de pantalla.
 
 ## Deploy del Proyecto
 
-***Github Pages***  : https://micolash89.github.io/porfolio-example/
+**_Github Pages_** : https://micolash89.github.io/porfolio-example/
 
 ## Estructura del Proyecto
 
@@ -35,3 +37,4 @@ El proyecto sigue una estructura HTML básica con secciones para Home, Servicios
 
    ```bash
    git clone https://github.com/TuUsuario/TuRepositorio.git
+   ```
