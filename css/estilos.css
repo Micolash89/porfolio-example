@@ -121,6 +121,7 @@ body.dark-theme {
 .section {
   padding-block: 5rem 1rem;
 }
+
 .section__title {
   font-size: var(--h1-font-size);
   text-align: center;
@@ -155,7 +156,7 @@ body.dark-theme {
 }
 
 .perfil__img {
-  width: 150px;
+  width: 100% !important;
 }
 
 .main {
